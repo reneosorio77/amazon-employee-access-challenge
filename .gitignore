@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+
+data/
+notebooks/catboost_info/
+notebooks/submission*.csv
+
 # Distribution / packaging
 .Python
 build/
